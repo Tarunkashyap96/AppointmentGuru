@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Appointment Guru</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_address">Map</string>
+</resources>
